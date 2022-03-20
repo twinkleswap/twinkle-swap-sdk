@@ -27,7 +27,7 @@ export enum Rounding {
 // export const FACTORY_ADDRESS = '0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73'
 // Arthswap's PancakeFactory.
 // export const FACTORY_ADDRESS = '0x152eE697f2E276fA89E96742e9bB9aB1F2E61bE3'
-// TWINKLE
+// // TWINKLE
 export const FACTORY_ADDRESS = '0x3B722DFF27f558240f696B992aB168c4486ba682'
 // https://blockscout.com/astar/address/0xA9473608514457b4bF083f9045fA63ae5810A03E/contracts
 
@@ -41,7 +41,7 @@ export const FACTORY_ADDRESS_MAP = {
 
 // Arthswap's INIT_CODE_PAIR_HASH
 // export const  INIT_CODE_HASH = '0x613b36de6401276e4d938ad0db4063490e66bb3ab2e4aec17cab78a15ea7a0b6';
-// Twinkle 
+// // Twinkle 
 export const INIT_CODE_HASH='0xaab6d9fe8e8c8627186599e654ba3c30cf9502ae32e81271fe236755e6be3b17';
 export const INIT_CODE_HASH_MAP = {
   [ChainId.MAINNET]: INIT_CODE_HASH,
