@@ -28,7 +28,8 @@ export enum Rounding {
 // Arthswap's PancakeFactory.
 // export const FACTORY_ADDRESS = '0x152eE697f2E276fA89E96742e9bB9aB1F2E61bE3'
 // // TWINKLE
-export const FACTORY_ADDRESS = '0x3B722DFF27f558240f696B992aB168c4486ba682'
+// export const FACTORY_ADDRESS = '0x3B722DFF27f558240f696B992aB168c4486ba682'
+export const FACTORY_ADDRESS = '0xAd518E06364d3391fddbD13CEB63aFfF852d244b'
 // https://blockscout.com/astar/address/0xA9473608514457b4bF083f9045fA63ae5810A03E/contracts
 
 export const FACTORY_ADDRESS_MAP = {
@@ -42,7 +43,9 @@ export const FACTORY_ADDRESS_MAP = {
 // Arthswap's INIT_CODE_PAIR_HASH
 // export const  INIT_CODE_HASH = '0x613b36de6401276e4d938ad0db4063490e66bb3ab2e4aec17cab78a15ea7a0b6';
 // // Twinkle 
-export const INIT_CODE_HASH='0xaab6d9fe8e8c8627186599e654ba3c30cf9502ae32e81271fe236755e6be3b17';
+// export const INIT_CODE_HASH='0xaab6d9fe8e8c8627186599e654ba3c30cf9502ae32e81271fe236755e6be3b17';
+// Twinkle
+export const INIT_CODE_HASH='0xeec62f1ff80e89799270b899c20f4d15ac937d8dfae75f489baa5bbdcb5be1c4';
 export const INIT_CODE_HASH_MAP = {
   [ChainId.MAINNET]: INIT_CODE_HASH,
   [ChainId.TESTNET]: '0xd0d4c4cd0848c93cb4fd1f498d7013ee6bfb25783ea21593d5834f5d250ece66'
